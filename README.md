@@ -1,12 +1,11 @@
 <!-- Banner -->
 <a href="https://your-website-link.com" target="_blank">
-  <img src="https://miro.medium.com/1*b21FyqUbowHYAOQDXH0tDw.jpeg" alt="MasterHead" width="100%" height=200px/>
+  <img src="https://miro.medium.com/1*b21FyqUbowHYAOQDXH0tDw.jpeg" alt="MasterHead" width="100%" height=400px/>
 </a>
-
 <!-- Right side GIF -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif" />
 <img align="right" alt="Coding" width="400" src="gif image.gif"/>
-<h1 align="center">Hi 👋, I'm Suhani Bundela</h1>
+<h1 align="center">Hi👋,I'm Suhani Bundela</h1>
 <h3 align="center">A passionate frontend developer and MERN Stack Enthusiast from India</h3>
 
 - 🔭 I’m currently working on WonderLust(Travel and Stay booking Platform)
