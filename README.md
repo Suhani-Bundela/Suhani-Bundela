@@ -1,38 +1,21 @@
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Suhani Bundela|Portfolio</title>
-</head>
-<body>
-    
-<a href="https://Suhani-Bundela.io" target="_blank">
-  <img src="github banner.png" alt="MasterHead" style="width:100%; height:auto;">
-</a>
-
-    <img align="right" alt="Coding" width="400" src="gif image.gif"/>
-    <h1 align="center">Hi 👋, I'm Suhani Bundela</h1>
+[![MasterHead](<img width="840" height="420" alt="image" src="https://github.com/user-attachments/assets/b6781ce2-86bc-440b-8907-c70b9697548e" />
+)](https://Suhani-Bundela.io)
+<img align="right" alt="Coding" width="400" src="gif image.gif"/>
+<h1 align="center">Hi 👋, I'm Suhani Bundela</h1>
 <h3 align="center">A passionate frontend developer and MERN Stack Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhani-bundela&label=Profile%20views&color=0e75b6&style=flat" alt="suhani-bundela" /> </p>
 
-- 🔭 I’m currently working on **WonderLust(Travel and Stay booking Platform)
-<br>
+- 🔭 I’m currently working on WonderLust(Travel and Stay booking Platform)
 
 - 🌱 I’m currently learning MERN Stack
-<br>
-
+  
 - 👯 Created many Projects like To-Do App,Simon-Says Game,Indore Travel Guide,Quora Post,Ujjain Travel guide
-<br>
-
+  
 - 👨‍💻 All of my projects are available at [https://github.com/Suhani-Bundela]
-<br>
-
+  
 - 📫 How to reach me bundelasuhani03@gmail.com
-<br>
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suhani bundela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhani bundela" height="30" width="40" /></a>
@@ -47,5 +30,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suhani-bundela&" alt="suhani-bundela" /></p>
 
     
-</body>
-</html>
