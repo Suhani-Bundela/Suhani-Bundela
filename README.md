@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Suhani Bundela</h1>
 <h3 align="center">A passionate frontend developer and MERN Stack Enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suhani-bundela&label=Profile%20views&color=0e75b6&style=flat" alt="suhani-bundela" /> </p>
-
 - 🔭 I’m currently working on WonderLust(Travel and Stay booking Platform)
 
 - 🌱 I’m currently learning MERN Stack
