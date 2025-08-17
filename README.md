@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
   <a href="https://your-website-link.com" target="_blank">
-    <img src="https://miro.medium.com/1*b21FyqUbowHYAOQDXH0tDw.jpeg" alt="MasterHead" height=300px width="100%">
+    <img src="https://miro.medium.com/1*b21FyqUbowHYAOQDXH0tDw.jpeg" alt="MasterHead" height=250px width="100%">
   </a>
 </p>
 
