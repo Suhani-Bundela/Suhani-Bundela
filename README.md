@@ -1,5 +1,3 @@
-[![MasterHead](<img width="840" height="420" alt="image" src="https://github.com/user-attachments/assets/b6781ce2-86bc-440b-8907-c70b9697548e" />
-)](https://Suhani-Bundela.io)
 <img align="right" alt="Coding" width="400" src="gif image.gif"/>
 <h1 align="center">Hi 👋, I'm Suhani Bundela</h1>
 <h3 align="center">A passionate frontend developer and MERN Stack Enthusiast from India</h3>
